@@ -3,7 +3,6 @@ package com.example.service;
 import com.example.data.PostDetail;
 import com.example.data.PostSummary;
 import com.example.repo.DataRepository;
-import com.example.service.dto.PostDetailDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
